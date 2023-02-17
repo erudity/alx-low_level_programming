@@ -29,7 +29,7 @@ int main(void)
 	printf("Size of a long int: %ld byte(s)\n", sizeof(longIntegerType));
 	printf("Size of a long long int: %ld byte(s)\n", sizeof(longLongIntegerType));
 	printf("Size of a float: %ld byte(s)\n", sizeof(floatType));
-	printf("Size of a double: %ld byte(s)\n", sizeof(doubleType));
+	/*printf("Size of a double: %ld byte(s)\n", sizeof(doubleType));*/
 
 
 	/*printf("Size of a char: %zu byte(s)\n", sizeof(char));*/
