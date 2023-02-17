@@ -24,11 +24,12 @@ int main(void)
 	long long int longLongIntegerType;
 
 	/* Sizeof operator is used to evaluate the size of a variable*/
-	printf("Size of a char: %ld byte(s)\n", sizeof(characterType));
-	printf("Size of a int: %ld byte(s)\n", sizeof(integerType));
-	printf("Size of a long int: %ld byte(s)\n", sizeof(longIntegerType));
-	printf("Size of a long long int: %ld byte(s)\n", sizeof(longLongIntegerType));
-	printf("Size of a float: %ld byte(s)\n", sizeof(floatType));
+	printf("Size of a char: %i byte(s)\n", sizeof(characterType));
+	printf("Size of a int: %i byte(s)\n", sizeof(integerType));
+	printf("Size of a long int: %i byte(s)\n", sizeof(longIntegerType));
+	printf("Size of a long long int: %i byte(s)\n", sizeof(longLongIntegerType));
+	printf("Size of a float: %i byte(s)\n", sizeof(floatType));
+
 	/*printf("Size of a double: %ld byte(s)\n", sizeof(doubleType));*/
 
 
