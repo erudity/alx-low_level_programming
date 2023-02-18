@@ -101,3 +101,5 @@ implementing `while` loops.
     * Combinations of numbers are printed in ascending order.
 ***
 This was quite an interesting tour!!
+
+Azeez Lawal.
