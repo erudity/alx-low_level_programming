@@ -1,8 +1,12 @@
 /** 0x08. C - Recursion **/
 
+
+![image](https://user-images.githubusercontent.com/123293320/224214182-ea6d84e8-1dc8-43af-b7ee-ab79f12ca02b.png)
+
+
 General
-What is recursion
-How to implement recursion
+What is recursion?
+How to implement recursion?
 In what situations you should implement recursion
 In what situations you shouldn’t implement recursion
 
